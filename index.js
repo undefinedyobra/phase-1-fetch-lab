@@ -1,6 +1,4 @@
 function fetchBooks() {
-  // To pass the tests, don't forget to return your fetch!
-  
 }
 
 function renderBooks(books) {
